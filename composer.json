@@ -1,8 +1,8 @@
 {
-    "name": "GorbunovStudio/avatax16",
+    "name": "gorbunovstudio/avatax16",
     "description": "AvaTax16 PHP lib",
     "type": "library",
-    "version": "0.2.4-alpha",
+    "version": "0.2.5-alpha",
     "license": [
         "OSL-3.0"
     ],
