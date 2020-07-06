@@ -1,8 +1,8 @@
 {
-    "name": "onepica/avatax16",
+    "name": "GorbunovStudio/avatax16",
     "description": "AvaTax16 PHP lib",
     "type": "library",
-    "version": "0.2.1-alpha",
+    "version": "0.2.4-alpha",
     "license": [
         "OSL-3.0"
     ],
